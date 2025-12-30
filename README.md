@@ -36,6 +36,4 @@ This project explores **Generative Adversarial Networks (GANs)** and **Semantic 
  👥 Contributors
       Mujtaba
 
-## 👥 Contributors
-* **Mujtaba**
-* *[Your Team Member's Name]*
+
