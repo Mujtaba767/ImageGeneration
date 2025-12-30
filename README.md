@@ -31,7 +31,7 @@ This project explores **Generative Adversarial Networks (GANs)** and **Semantic 
 4.  **Run the Script:**
     Execute the notebook to train the model or use the search tool.
 
-    //This is our Semester Project
+    //This is our Semester Project.
 
  👥 Contributors
       Mujtaba
